@@ -10,30 +10,98 @@ From automation scripts and command-line tools to AI-powered applications, each 
 
 ## 🚀 Current Projects
 
-### 🤖 Mini Jarvis
+### 📝 To-Do List Manager
 
-A voice-controlled virtual assistant capable of:
+A productivity-focused task management application built with Python.
 
-* Opening websites and applications
-* Responding to voice commands
-* Telling time and date
-* Performing basic automation tasks
+**Features**
 
-### 📂 File Organizer
+* Add new tasks
+* Mark tasks as completed
+* Delete tasks
+* Save tasks locally
+* Simple and user-friendly interface
 
-An automation tool that:
+---
 
-* Sorts files into categorized folders
-* Organizes downloads automatically
-* Reduces desktop clutter
+### 📂 File Organizer Automation Tool
+
+An automation script that keeps folders clean and organized.
+
+**Features**
+
+* Categorize files by type
+* Create folders automatically
+* Organize Downloads folder
+* Reduce clutter and improve productivity
+
+---
 
 ### 🛒 Grocery Store Management System
 
-A console-based application for:
+A console-based inventory and sales management application.
 
-* Managing products
-* Tracking inventory
-* Handling customer purchases
+**Features**
+
+* Product management
+* Inventory tracking
+* Billing functionality
+* Purchase history
+* Stock updates
+
+---
+
+### 🔐 Password Generator
+
+A secure password generation tool for creating strong passwords.
+
+**Features**
+
+* Custom password length
+* Random character generation
+* Strong security patterns
+* Easy-to-use interface
+
+---
+
+### 🏦 Bank Account Simulator
+
+A Python application that simulates basic banking operations.
+
+**Features**
+
+* Create accounts
+* Deposit money
+* Withdraw funds
+* Check account balance
+* Transaction history
+
+---
+
+### ✂️ Rock Paper Scissors
+
+A classic game built with Python.
+
+**Features**
+
+* Player vs Computer
+* Randomized computer choices
+* Score tracking
+* Multiple rounds
+
+---
+
+### 🎯 Number Guessing Game
+
+An interactive game where players guess a randomly generated number.
+
+**Features**
+
+* Difficulty levels
+* Score calculation
+* Attempt counter
+* Hint system
+
 
 ## 🛠️ Technologies
 
