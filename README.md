@@ -1,3 +1,6 @@
+<img width="3840" height="1080" alt="python-dark-3840x1080-16018" src="https://github.com/user-attachments/assets/1a65aae3-fdb5-47de-8df4-07bba17370c6" />
+
+
 # 🐍 Python Projects
 
 > Building automation tools, AI assistants, and practical applications with Python.
